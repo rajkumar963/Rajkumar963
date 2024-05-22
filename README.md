@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumar963&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumar963" /> </p>
 
-- 🌱 I’m currently learning **Web Development, Data Science & CP...**
+- 🌱 I’m currently learning **Web Development, Data Science & Competitive Programming.**
 
 - 👨‍💻 All of my projects are available at [https://rajkumar963.github.io/rajkumar.com/](https://rajkumar963.github.io/rajkumar.com/)
 
