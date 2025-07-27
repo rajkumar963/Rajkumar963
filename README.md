@@ -8,7 +8,7 @@
 </p>
 
 - 🌱 I’m currently learning **Web Development, Data Science & Competitive Programming.**  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://rajkumar963.github.io/rajkumar.com/)  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://rajkumar-portfolio-ten.vercel.app/)  
 - 📫 How to reach me: **rajkumarsaw597@gmail.com**  
 - ⚡ Fun fact: **I am funny😂**
 
