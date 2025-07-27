@@ -99,7 +99,10 @@
 ---
 
 <h3>🏆 GitHub Trophies</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=rajkumar963&theme=dracula&column=3&margin-w=15&margin-h=15" alt="rajkumar963 trophies" />
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajkumar963&theme=dracula&margin-w=15&margin-h=15" alt="rajkumar963 trophies" />
+</div>
+
 
 ---
 
