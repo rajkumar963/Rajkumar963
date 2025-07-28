@@ -79,9 +79,17 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar963&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajkumar963&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajkumar963&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rajkumar's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar963&theme=tokyonight&hide_border=true" alt="Rajkumar's Streak" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar963&" alt="GitHub Streak" /></p>
+<div align="center">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar963&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+  <img width="60%" src="https://github-contributor-stats.vercel.app/api?username=rajkumar963&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+</div>
+
+---
 
