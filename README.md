@@ -1,6 +1,14 @@
 <h1 align="center"><b>Hi 👋, I'm Rajkumar👨‍💻</b></h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<p align="center">
+    <a href="https://x.com/R_Rajkumar_3690"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="https://www.linkedin.com/in/rajkumar963/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/r_rajkumar_3690/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="mailto:rajkumarsaw597@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://rajkumar-portfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif"/>
 
 <p align="left">
