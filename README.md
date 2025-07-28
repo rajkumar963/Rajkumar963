@@ -1,5 +1,8 @@
 <h1 align="center"><b>Hi 👋, I'm Rajkumar👨‍💻</b></h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<!-- <h3 align="center">A passionate Software Engineer from India</h3> -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7EE&center=true&vCenter=true&width=500&lines=Frontend+Developer;Competitive+Programmer;Generative+AI+Explorer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
     <a href="https://x.com/R_Rajkumar_3690"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
