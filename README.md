@@ -58,7 +58,7 @@
 
 <div align="center">
   <h3>Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,vue," /><br />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs" /><br />
   <h3>Database</h3>
   <img src="https://skillicons.dev/icons?i=docker,mongodb,postgres,mysql" /><br />
   <!-- <h3>AI/ML & Backend</h3>
