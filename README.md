@@ -18,39 +18,18 @@
   <img src="https://img.shields.io/github/followers/rajkumar963?style=for-the-badge&color=green" alt="GitHub Followers" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif"/>
+<img align="right" alt="Coding" width="300" height="200" z-index="50" src="https://i.gifer.com/JXA0.gif"/>
 
-- 🌱 I’m currently learning **Web Development, Data Science & Competitive Programming.**  
+<h2>👨‍💻 About Me</h2>
+
+> *"The best way to predict the future is to invent it."* — Alan Kay
+
+- 🌱 I’m currently learning **Web Development, Data Science & Competitive Programming.**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://rajkumar-portfolio-ten.vercel.app/)  
 - 📫 How to reach me: **rajkumarsaw597@gmail.com**  
 - ⚡ Fun fact: **I am funny😂**
 
----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/rajkumar963" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/raj kumar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/r_rajkumar3690" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/rajkumar3690" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/rajkumar963" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/rajkumar3690" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/scientistcwyl" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
