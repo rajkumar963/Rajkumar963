@@ -93,3 +93,24 @@
 
 ---
 
+## 🏅 Programming Journey
+
+<div align="center">
+  
+**Platforms & Achievements**
+  
+<a href="https://codeforces.com/profile/Bitcoder3690">
+  <img src="https://img.shields.io/badge/Codeforces-Newbie-blue?style=for-the-badge&logo=codeforces" />
+</a>
+<a href="https://www.codechef.com/users/bitcoder3690">
+  <img src="https://img.shields.io/badge/CodeChef-1⭐-orange?style=for-the-badge&logo=codechef" />
+</a>
+<a href="https://leetcode.com/u/BitCoder3690/">
+  <img src="https://img.shields.io/badge/LeetCode-Active-yellow?style=for-the-badge&logo=leetcode" />
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/BitCoder3690?theme=dark&font=source_code_pro&width=500&border=0&radius=10" />
+</div>
