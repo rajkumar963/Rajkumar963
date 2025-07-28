@@ -69,12 +69,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,vite,babel" />
 </div>
 
----
 
-<h3>🏆 GitHub Trophies</h3>
-<div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajkumar963&theme=dracula&margin-w=15&margin-h=15" alt="rajkumar963 trophies" />
-</div>
 
 
 ---
@@ -91,7 +86,7 @@
   <img width="60%" src="https://github-contributor-stats.vercel.app/api?username=rajkumar963&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
 </div>
 
----
+
 
 ## 🏅 Programming Journey
 
@@ -114,3 +109,18 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/BitCoder3690?theme=dark&font=source_code_pro&width=500&border=0&radius=10" />
 </div>
+
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajkumar963&theme=github-compact&hide_border=true&area=true" />
+</div>
+
+---
+
+<h3>🏆 GitHub Trophies</h3>
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajkumar963&theme=dracula&margin-w=15&margin-h=15" alt="rajkumar963 trophies" />
+</div>
+
