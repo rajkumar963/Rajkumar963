@@ -103,3 +103,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rajkumar963&theme=dracula&margin-w=15&margin-h=15" alt="rajkumar963 trophies" />
 </div>
 
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" />
+  
+  <sub>💡 <em>Always learning, always building, always growing</em></sub>
+</div>
