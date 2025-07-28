@@ -20,10 +20,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rajkumar963&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumar963" />
-</p>
-
 - 🌱 I’m currently learning **Web Development, Data Science & Competitive Programming.**  
 - 👨‍💻 All of my projects are available at [My Portfolio](https://rajkumar-portfolio-ten.vercel.app/)  
 - 📫 How to reach me: **rajkumarsaw597@gmail.com**  
