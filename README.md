@@ -9,6 +9,12 @@
     <a href="https://rajkumar-portfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajkumar963&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/rajkumar963?affiliations=OWNER&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/rajkumar963?style=for-the-badge&color=green" alt="GitHub Followers" />
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif"/>
 
 <p align="left">
