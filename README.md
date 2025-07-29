@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/github/followers/rajkumar963?style=for-the-badge&color=green" alt="GitHub Followers" />
 </div>
 
-<img align="right" alt="Coding" width="300" height="200" z-index="50" src="https://i.gifer.com/JXA0.gif"/>
+<img align="right" alt="Coding" width="300" height="200" style="margin-top: 100px; padding-top: 50px;" src="https://i.gifer.com/JXA0.gif"/>
+
 
 <h2>👨‍💻 About Me</h2>
 
@@ -101,6 +102,27 @@
 <h3>🏆 GitHub Trophies</h3>
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="https://github-profile-trophy.vercel.app/?username=rajkumar963&theme=dracula&margin-w=15&margin-h=15" alt="rajkumar963 trophies" />
+</div>
+
+---
+## 🤝 Let's Build Something Amazing Together
+
+<div align="center">
+
+**Open to collaborations, exciting projects, and meaningful conversations**
+
+Whether you're passionate about cutting-edge web experiences, need a frontend development partner, or just want to chat about technology — I'm always excited to connect with fellow builders and innovators.
+
+<a href="https://x.com/R_Rajkumar_3690">
+  <img src="https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rajkumar963/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rajkumarsaw597@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
 ---
